@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Virtual Reality Samples</string>
+    <string name="virtual_reality_samples">VIRTUAL REALITY SAMPLES</string>
+    <string name="choose_scene_to_view_in_vr">CHOOSE SCENE TO VIEW IN VR</string>
+    <string name="store_near_the_sea">STORE NEAR THE SEA</string>
+    <string name="ways_to_go">WAYS TO GO</string>
+    <string name="greenery_at_the_shore">GREENERY AT THE SHORE</string>
+    <string name="night_time_beauty">NIGHT TIME BEAUTY</string>
+    <string name="sunrise_in_open">SUNRISE IN OPEN</string>
+
+    <string name="title_activity_vr">VrActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
