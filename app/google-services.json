@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "888501210816",
+    "firebase_url": "https://vr-samples.firebaseio.com",
+    "project_id": "vr-samples",
+    "storage_bucket": "vr-samples.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888501210816:android:06e39251a25082a3",
+        "android_client_info": {
+          "package_name": "com.robillo.virtualrealitysample_senseitall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888501210816-s4isinboaj5scpf7no4qg7jljgkcmrab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDac90nauYpsQRVvbDn0l7xMjTQvHd-fZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
